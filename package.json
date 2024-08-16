@@ -2,6 +2,7 @@
   "name": "unbuild-issue",
   "version": "1.0.0",
   "description": "",
+  "packageManager": "pnpm@9.7.1",
   "scripts": {
       "build": "pnpm build:tsup && pnpm build:unbuild",
       "build:tsup": "tsup",
